@@ -1,4 +1,4 @@
-package java010_abstract_interface.prob.part04;
+package part04;
 
 abstract public class Person {
 	String name; //이름
